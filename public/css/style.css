@@ -1,0 +1,41 @@
+.mr-auto, .mx-auto{
+	margin-right:  auto!important;
+	margin-top: 12px;
+	margin-bottom:  -10px;
+}
+.product-item{
+	background:  #00FF00;
+}
+.title-back{
+	background-image: url("paper.jpg");
+}
+
+.product-item{
+	background:  #00FF00;
+}
+
+.child-rows{
+	padding-left: 20px;
+	border-left:  1px solid #00FFFF;
+	background: #FFF;
+}
+.child-rows a.list-group-item{
+	border-left:  0px!important;
+}
+.bg-light {
+	background-color:  #198754!important;
+}
+
+.margin-top-20{
+margin-top: 20px;
+}
+
+.feature-img{
+	max-height: 200px;
+}
+
+.footer-bottom{
+	padding: 20px;
+	margin-top: 20px;
+	background:  #198754;
+}
